@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AstroV3/static/css/main.8836ea8b.css",
+    "main.js": "/AstroV3/static/js/main.77b220fc.js",
+    "static/media/avatar.svg": "/AstroV3/static/media/avatar.6acdd0f348322ba06d8275de5dd8ee85.svg",
+    "static/media/portfolio-img2.png": "/AstroV3/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
+    "static/media/portfolio-img3.png": "/AstroV3/static/media/portfolio-img3.e2bf250541b961cca642.png",
+    "static/media/site-bg.jpg": "/AstroV3/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/portfolio-img1.png": "/AstroV3/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/services.png": "/AstroV3/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/about.png": "/AstroV3/static/media/about.34da930ab4436bc41a33.png",
+    "static/media/logo.svg": "/AstroV3/static/media/logo.1ed738f9eb92c6c36939bc033726e44c.svg",
+    "index.html": "/AstroV3/index.html",
+    "main.8836ea8b.css.map": "/AstroV3/static/css/main.8836ea8b.css.map",
+    "main.77b220fc.js.map": "/AstroV3/static/js/main.77b220fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8836ea8b.css",
+    "static/js/main.77b220fc.js"
+  ]
+}
